@@ -397,4 +397,19 @@ header{
         font-size: 13.5px;
         margin-bottom: 0.5rem!important;
     }
+    .link-list{
+        h6{
+            font-size: 12px;
+        }
+        .nav-link{
+            padding: .2rem ;
+            color: #515154;
+            font-size: .8rem;
+        }
+        a:hover{
+            color: #515154 !important;
+            text-decoration: underline !important;
+        }
+
+    }
 }

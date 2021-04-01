@@ -488,4 +488,19 @@ header a:hover {
   font-size: 13.5px;
   margin-bottom: 0.5rem !important;
 }
+
+#info .link-list h6 {
+  font-size: 12px;
+}
+
+#info .link-list .nav-link {
+  padding: .2rem;
+  color: #515154;
+  font-size: .8rem;
+}
+
+#info .link-list a:hover {
+  color: #515154 !important;
+  text-decoration: underline !important;
+}
 /*# sourceMappingURL=style.css.map */
