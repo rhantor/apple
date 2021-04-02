@@ -491,16 +491,50 @@ header a:hover {
 
 #info .link-list h6 {
   font-size: 12px;
+  font-family: 'Gothic A1', sans-serif;
+  font-weight: 800 !important;
 }
 
 #info .link-list .nav-link {
-  padding: .2rem;
+  padding: .3rem;
   color: #515154;
-  font-size: .8rem;
+  font-size: .9rem;
 }
 
 #info .link-list a:hover {
   color: #515154 !important;
   text-decoration: underline !important;
+}
+
+#info hr {
+  margin-top: 0;
+  margin-bottom: .5rem;
+}
+
+#info .footer {
+  position: relative;
+}
+
+#info .footer a {
+  margin-right: 5px;
+  padding: 0 12px;
+  border-right: 1px solid #646262;
+  color: #515154;
+  font-size: 14px;
+}
+
+#info .footer a:hover {
+  color: #515154 !important;
+}
+
+#info .footer a:nth-child(6) {
+  border: none;
+}
+
+#info .footer a:nth-child(7) {
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: none;
 }
 /*# sourceMappingURL=style.css.map */
